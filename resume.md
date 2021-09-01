@@ -23,3 +23,7 @@ I was an undergraduat resurch assistant on an NCDOT project that was studying wh
 
 #goals
 I want to be an influecal member of an MPO or work on a large scale transportation project that will help a community through its transportation networks
+
+#link to Autom
+[resume.md](https://github.com/sop416/resume/files/7092500/resume.md)
+
