@@ -18,12 +18,17 @@ urban disigin, geogrophy, logistics, and transportation
 graduated from wake forest high school
 three years of school at Applachian state university
 
-#professional experance
+# professional experance
 I was an undergraduat resurch assistant on an NCDOT project that was studying what might need to be done for the implimantation of CAVs
 
-#goals
+# goals
 I want to be an influecal member of an MPO or work on a large scale transportation project that will help a community through its transportation networks
 
-#link to Autom
+# photo of me
+![photo of me](https://user-images.githubusercontent.com/89599925/131702244-b5ea5ef6-dec9-433e-9409-75dd745c94c0.jpg)
+
+
+
+# link to Atom
 [resume.md](https://github.com/sop416/resume/files/7092500/resume.md)
 
