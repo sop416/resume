@@ -2,9 +2,9 @@ sthephen poupart
 ===============
 
 #### student at Applachian state unversity pursuing
-######masters in geography
-######batchlors of science in community and reginal planning
-######geographic information systems certifacate
+###### masters in geography
+###### batchlors of science in community and reginal planning
+###### geographic information systems certifacate
 
 resurch interest
 ===========
@@ -27,7 +27,8 @@ I want to be an influecal member of an MPO or work on a large scale transportati
 # photo of me
 ![photo of me](https://user-images.githubusercontent.com/89599925/131702244-b5ea5ef6-dec9-433e-9409-75dd745c94c0.jpg)
 
-
+# cool geogrophy deparment
+https://geo.appstate.edu/
 
 # link to Atom
 [resume.md](https://github.com/sop416/resume/files/7092500/resume.md)
